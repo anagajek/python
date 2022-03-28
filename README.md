@@ -1,11 +1,11 @@
 # To run app, use following commands:
 
-'''py -3 -m venv venv'''
+''py -3 -m venv venv''
 
-'''venv\Scripts\activate'''
+''venv\Scripts\activate''
 
-''''pip install Flask'''
+''pip install Flask''
 
-'''set FLASK_APP=hello.py'''
+''set FLASK_APP=hello.py''
 
-'''flask run'''
+''flask run'
